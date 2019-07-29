@@ -1,4 +1,4 @@
-package com.p2p.p2p;
+package com.p2psystem.p2p;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
