@@ -1,4 +1,4 @@
-package com.p2psystem.p2p;
+package com.p2p.p2p;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
